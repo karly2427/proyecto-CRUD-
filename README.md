@@ -1,3 +1,38 @@
+# CRUD de Productos - React + PHP + MySQL
+
+Este proyecto es una aplicación web que permite gestionar productos a través de una API REST. Utiliza **React** para el frontend y **PHP** con **MySQL** para el backend. La aplicación permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los productos.
+
+## Tecnologías Utilizadas
+
+### Frontend:
+- **React**: Para el desarrollo del frontend interactivo.
+- **React Hooks**: Para gestionar el estado y los efectos de la aplicación.
+- **Fetch API**: Para consumir los endpoints de la API REST.
+- **CSS/TailwindCSS**: Para el diseño y estilo básico de la interfaz.
+
+### Backend:
+- **PHP**: Para la implementación de la API.
+- **MySQL**: Base de datos relacional para almacenar los productos.
+
+
+### Herramientas:
+- **Git**: Para el control de versiones.
+
+## Instalación
+
+### Backend (PHP)
+
+1. Clona el repositorio:
+  bash
+   git clone 
+2.Dirígete a la carpeta de proyecto y descarga la que dice api.php  y configura un servidor web que soporte PHP (puedes usar XAMPP)
+
+3.Configura la base de datos:
+
+ Crea una base de datos llamada productos en MySQL.
+ una vez creada solo importa la base de datos que se llama productsdb.sql que se encuentra en la carpeta proyecto  
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
